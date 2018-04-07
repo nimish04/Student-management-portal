@@ -1,0 +1,6 @@
+23 moksh 199 maharashtra 3000
+45 akshay 200 jammu 4555
+233 nimish 194 MP 2207
+148 siddhant 193 maha 10000
+656 nimish 688 mp 755
+45 rohit 23 jammu 4000
